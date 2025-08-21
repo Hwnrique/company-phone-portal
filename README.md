@@ -19,10 +19,14 @@
 
   <p>
     Visando a praticidade do projeto e futuras atualizações na lista telefônica, o projeto consta com banco de dados em JSON, onde ele puxa todo o conteúdo necessário e através do "map"
-    faz com que seja exibido todo o conteúdo na tela.
+    faz com que seja exibido todo o conteúdo na tela. Cada componente da tabela tem o seu próprio aqruivo.
   </p>
 
-  <img width="295" height="628" alt="Captura de tela 2025-08-20 231135" src="https://github.com/user-attachments/assets/df30412d-1ecb-4869-bfe9-ad017d7ba3b8" />
+  <div style="display: block" align="center">
+      <img width="290" height="716" alt="Captura de tela 2025-08-21 194745" src="https://github.com/user-attachments/assets/3f914171-7aa6-4b49-a0ff-ef5f97ba1a93" />
+      <img width="295" height="628" alt="Captura de tela 2025-08-20 231135" src="https://github.com/user-attachments/assets/df30412d-1ecb-4869-bfe9-ad017d7ba3b8" />
+
+  </div>
   <br/>
 
   <p align="center">
