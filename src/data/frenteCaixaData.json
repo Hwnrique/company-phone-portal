@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "Departamento": "Cadastro",
+    "Responsáveis": "Colaborador A",
+    "Ramal": 9999
+  },
+  {
+    "ID": 2,
+    "Departamento": "Frente de Caixa",
+    "Responsáveis": "Colaboradores B e D",
+    "Ramal": 9999
+  },
+  {
+    "ID": 3,
+    "Departamento": "Bate Caixa",
+    "Responsáveis": "Colaborador C",
+    "Ramal": 9999
+  }
+]

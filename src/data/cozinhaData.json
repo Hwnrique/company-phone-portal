@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1,
+    "Departamento": "Nutricionista",
+    "Responsáveis": "Colaborador A",
+    "Ramal": 9999
+  },
+  {
+    "ID": 2,
+    "Departamento": "Refeitório",
+    "Responsáveis": "Colaborador B",
+    "Ramal": 9999
+  }
+]

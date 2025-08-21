@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "Departamento": "Cafeteria - Padaria",
+    "Responsáveis": "Colaborador A",
+    "Ramal": 9999
+  },
+  {
+    "ID": 2,
+    "Departamento": "Estoquista",
+    "Responsáveis": "Colaborador B",
+    "Ramal": 9999
+  },
+  {
+    "ID": 3,
+    "Departamento": "Hortifuit",
+    "Responsáveis": "Colaborador C",
+    "Ramal": 9999
+  },
+  {
+    "ID": 4,
+    "Departamento": "Frios",
+    "Responsáveis": "Colaboradores D e E ",
+    "Ramal": 9999
+  },
+  {
+    "ID": 5,
+    "Departamento": "Líder de Loja",
+    "Responsáveis": "Colaborador F",
+    "Ramal": 9999
+  },
+  {
+    "ID": 6,
+    "Departamento": "Açougue",
+    "Responsáveis": "Colaborador G",
+    "Ramal": 9999
+  },
+  {
+    "ID": 7,
+    "Departamento": "Fatiados",
+    "Responsáveis": "Colaboradores H e I",
+    "Ramal": 9999
+  }
+]

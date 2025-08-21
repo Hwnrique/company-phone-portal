@@ -1,0 +1,56 @@
+[
+  {
+    "ID": 1,
+    "Departamento": "Gerente Comercial",
+    "Responsáveis": "Colaborador A",
+    "Ramal": 9999
+  },
+  {
+    "ID": 2,
+    "Departamento": "Supervisor ADM",
+    "Responsáveis": "Colaborador B",
+    "Ramal": 9999
+  },
+  {
+    "ID": 3,
+    "Departamento": "Supervisor Operacional",
+    "Responsáveis": "Colaborador C",
+    "Ramal": 9999
+  },
+  {
+    "ID": 4,
+    "Departamento": "Assistente ADM",
+    "Responsáveis": "Colaborador D",
+    "Ramal": 9999
+  },
+  {
+    "ID": 5,
+    "Departamento": "Informática",
+    "Responsáveis": "Colaborador E",
+    "Ramal": 9999
+  },
+  {
+    "ID": 6,
+    "Departamento": "Almoxarifado",
+    "Responsáveis": "Colaborador F",
+    "Ramal": 9999
+  },
+  {
+    "ID": 7,
+    "Departamento": "Apoio à Gerência",
+    "Responsáveis": "Colaborador G",
+    "Ramal": 9999
+  },
+  {
+    "ID": 8,
+    "Departamento": "Cofre",
+    "Responsáveis": "Colaborador H",
+    "Ramal": 9999
+  },
+  {
+    "ID": 9,
+    "Departamento": "Estande de Cartão",
+    "Responsáveis": "Colaborador I",
+    "Ramal": 9999
+  }
+]

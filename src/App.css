@@ -1,0 +1,45 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+  min-height: 200px;
+  box-shadow: rgba(22, 22, 22, 0.2) 0px 7px 29px 0px;
+  margin-bottom: 30px;
+}
+
+#table-list {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-bottom: 6px solid #d1540c;
+}
+
+#table-list label {
+  background-color: rgb(0, 114, 19);
+  padding: 1rem;
+  font-size: 17px;
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+#table-list label:hover {
+  background-color: #d1540c;
+}
+
+#table-list label:has(input:checked) {
+  background-color: #d1540c;
+}
+
+#table-list input {
+  position: absolute;
+  opacity: 0;
+}

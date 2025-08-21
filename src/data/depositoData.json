@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "Departamento": "Cartazista",
+    "Responsáveis": "Colaborador A",
+    "Ramal": 9999
+  },
+  {
+    "ID": 2,
+    "Departamento": "Manutenção",
+    "Responsáveis": "Colaborador B",
+    "Ramal": 9999
+  },
+  {
+    "ID": 3,
+    "Departamento": "Conferente de Datas",
+    "Responsáveis": "Colaborador C",
+    "Ramal": 9999
+  },
+  {
+    "ID": 4,
+    "Departamento": "RM",
+    "Responsáveis": "Colaborador D",
+    "Ramal": 9999
+  },
+  {
+    "ID": 5,
+    "Departamento": "Trocas",
+    "Responsáveis": "Colaborador E",
+    "Ramal": 9999
+  },
+  {
+    "ID": 6,
+    "Departamento": "Líder de Depósito",
+    "Responsáveis": "Colaborador F",
+    "Ramal": 9999
+  }
+]
