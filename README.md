@@ -19,7 +19,7 @@
 
   <p>
     Visando a praticidade do projeto e futuras atualizações na lista telefônica, o projeto consta com banco de dados em JSON, onde ele puxa todo o conteúdo necessário e através do "map"
-    faz com que seja exibido todo o conteúdo na tela. Cada componente da tabela tem o seu próprio aqruivo.
+    faz com que seja exibido todo o conteúdo na tela. Cada componente da tabela tem o seu próprio arquivo.
   </p>
 
   <div style="display: block" align="center">
