@@ -12,7 +12,7 @@ Este projeto consiste em uma Tabela feita para organizar os ramais da empresa na
 
 # Explicando seu funcionamento:
 
-Visando a praticidade do projeto e futuras atualizações na lista telefônica, o projeto consta com banco de dados em JSON, onde ele puxa todo o conteúdo necessário e através do "map" faz com que seja exibido todo o conteúdo na tela. Cada componente da tabela tem o seu próprio aqruivo. O site foi feito em ReactJs.
+Visando a praticidade do projeto e futuras atualizações na lista telefônica, o projeto consta com banco de dados em JSON, onde ele puxa todo o conteúdo necessário e através do "map" faz com que seja exibido todo o conteúdo na tela. Cada componente da tabela tem o seu próprio arquivo. O site foi feito em ReactJs.
 
 <div align="center">
 <img width="290" height="716" alt="Captura de tela 2025-08-21 194745" src="https://github.com/user-attachments/assets/a7c68037-878e-45f9-89e4-efe7b7c665ab" />
