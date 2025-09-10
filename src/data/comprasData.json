@@ -7,7 +7,7 @@
  },
  {
   "ID": 2,
-  "Departamento": "Comprador",
+  "Departamento": "Marketing",
   "Responsáveis": "Colaborador Externo",
   "Ramal": 9999
  },
@@ -37,13 +37,13 @@
  },
  {
   "ID": 7,
-  "Departamento": "Aux. Compras",
+  "Departamento": "Regional",
   "Responsáveis": "Colaborador Externo",
   "Ramal": 9999
  },
  {
   "ID": 8,
-  "Departamento": "Comprador",
+  "Departamento": "Design",
   "Responsáveis": "Colaborador Externo",
   "Ramal": 9999
  },
@@ -67,7 +67,7 @@
  },
  {
   "ID": 12,
-  "Departamento": "Aux. Compras",
+  "Departamento": "Suporte Redes",
   "Responsáveis": "Colaborador Externo",
   "Ramal": 9999
  },
@@ -85,7 +85,7 @@
  },
  {
   "ID": 15,
-  "Departamento": "Comprador",
+  "Departamento": "Técnico RUB",
   "Responsáveis": "Colaborador Externo",
   "Ramal": 9999
  },
