@@ -45,7 +45,7 @@ export function useTable(tables) {
 
 # Pesquisa para listas grandes
 
-No setor de compras, por ser feito para puxar alguns colaboradores externos, acabmos por ter uma lista bem grande. Para evitar a rolagem longa da página, implementei um input de pesquisa, para ajudar o usuário a filtrar melhor sua busca.
+No setor de compras, por ser feito para puxar alguns colaboradores externos, acabamos por ter uma lista bem grande. Para evitar a rolagem longa da página, implementei um input de pesquisa, para ajudar o usuário a filtrar melhor sua busca.
 
 ```bash
   const filteredData = data.filter((item) => {
